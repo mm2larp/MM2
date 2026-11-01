@@ -5,4 +5,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Duration = 5
 })
 task.wait(3)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/narwiq/mm2/refs/heads/main/pulsehub.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/HHkfjplx/raw"))()
