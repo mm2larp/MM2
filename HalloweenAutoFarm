@@ -5,4 +5,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Duration = 5
 })
 task.wait(3)
-loadstring(game:HttpGet("https://pastefy.app/HHkfjplx/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/f9Uo7yVu/raw"))()
